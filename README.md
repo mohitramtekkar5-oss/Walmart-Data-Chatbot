@@ -50,7 +50,7 @@ Which stores are underperforming and what might be causing it?
 
 ![Chatbot Overview]([screenshots/chatbot_overview.png](https://github.com/mohitramtekkar5-oss/Walmart-Data-Chatbot/blob/6e41349a4d0749551410119c5401e9570e05896f/Walmart%20Data.pdf))
 ![Holiday Impact Query]([screenshots/holiday_impact_query.png](https://github.com/mohitramtekkar5-oss/Walmart-Data-Chatbot/blob/d1b4c80f2706a90425b053d0efb71eee852bec36/Holiday%20Impact.PNG))
-![Recommendations Query](screenshots/recommendations_query.png)
+![Recommendations Query]([screenshots/recommendations_query.png](https://github.com/mohitramtekkar5-oss/Walmart-Data-Chatbot/blob/cdb14edeee0119b0261836c16e20a3ad486fa4b2/3%20actionable%20recommendations.PNG))
 
 ---
 
